@@ -4,6 +4,11 @@
         <members>*</members>
         <name>ApexClass</name>
     </types>
+
+    <types>
+        <members>myClassTest</members>
+        <name>ApexTestClasses</name>
+    </types>
     
     <version>51.0</version>
 </Package>
